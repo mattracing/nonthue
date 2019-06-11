@@ -1,10 +1,10 @@
 {
   "packages": [
     {
-      "websiteURL": "http://eltech.com.ar",
+      "websiteURL": "http://www.eltech.com.ar",
       "tools": [],
       "name": "eltech",
-      "email": "nonthue@eltech.com.ar",
+      "email": "produccion@eltech.com.ar",
       "help": {
         "online": "https://forums.adafruit.com"
       },
