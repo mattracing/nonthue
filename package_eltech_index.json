@@ -15,7 +15,7 @@
           "architecture": "samd",
           "version": "1.5.0",
           "category": "Eltech",
-          "url": "https://github.com/mattracing/nonthue/eltech-samd-1.5.0.zip",
+          "url": "https://github.com/mattracing/nonthue/blob/master/eltech-samd-1.5.0.zip",
           "archiveFileName": "eltech-samd-1.5.0.zip",
           "checksum": "SHA-256:eb3cc1299419ff24cebd7e3d04962367f8b1a00840e38bb637af365af9b37069",
           "size": "3023302",
