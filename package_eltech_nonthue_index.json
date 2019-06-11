@@ -1,0 +1,61 @@
+{
+    "packages": [
+        {
+            "name": "eltech",
+            "maintainer": "Eltech",
+            "websiteURL": "http://www.eltech.com.ar/",
+            "email": "produccion@eltech.com.ar",
+            "help": {
+                "online": "http://www.eltech.com.ar/"
+            },
+            "platforms": [
+                {
+                    "name": "Eltech SAMD Boards",
+                    "architecture": "samd",
+                    "version": "1.5.0",
+                    "category": "Eltech",
+                    "url": "https://github.com/mattracing/nonthue/blob/master/eltech-samd-1.5.0.zip",
+                    "archiveFileName": "eltech-samd-1.5.0.zip",
+                    "checksum": "SHA-256:eb3cc1299419ff24cebd7e3d04962367f8b1a00840e38bb637af365af9b37069",
+                    "size": "3023302",
+                    "help": {
+                        "online": "http://www.eltech.com.ar/"
+                    },
+                    "boards": [
+                        {
+                            "name": "Eltech Nonthue M0"
+                        }
+                    ],
+                    "toolsDependencies": [
+                            {
+                              "packager": "arduino",
+                              "name": "arm-none-eabi-gcc",
+                              "version": "4.8.3-2014q1"
+                            },
+                            {
+                              "packager": "arduino",
+                              "name": "bossac",
+                              "version": "1.8.0-48-gb176eee"
+                            },
+                            {
+                              "packager": "arduino",
+                              "name": "openocd",
+                              "version": "0.9.0-arduino"
+                            },
+                            {
+                              "packager": "arduino",
+                              "name": "CMSIS",
+                              "version": "4.5.0"
+                            },
+                            {
+                              "packager": "arduino",
+                              "name": "CMSIS-Atmel",
+                              "version": "1.2.0"
+                            }
+                          ]
+                        }
+                    ],
+            "tools": []
+        }
+    ]
+}
